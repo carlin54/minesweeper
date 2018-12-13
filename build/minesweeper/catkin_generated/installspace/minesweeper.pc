@@ -1,0 +1,8 @@
+prefix=/home/richard/ros_catkin_ws/install
+
+Name: minesweeper
+Description: Description of minesweeper
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/richard/ros_catkin_ws/install/lib 
+Requires: 

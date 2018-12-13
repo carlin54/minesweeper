@@ -1,0 +1,2 @@
+beginner_tutorials:minesweeper
+-DCATKIN_DEVEL_PREFIX=/home/richard/ros_catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/richard/ros_catkin_ws/install -G Unix Makefiles
