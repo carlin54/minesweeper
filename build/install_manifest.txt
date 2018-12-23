@@ -1,0 +1,14 @@
+/home/richard/ros_catkin_ws/install/_setup_util.py
+/home/richard/ros_catkin_ws/install/env.sh
+/home/richard/ros_catkin_ws/install/setup.bash
+/home/richard/ros_catkin_ws/install/setup.sh
+/home/richard/ros_catkin_ws/install/setup.zsh
+/home/richard/ros_catkin_ws/install/.rosinstall
+/home/richard/ros_catkin_ws/install/lib/pkgconfig/beginner_tutorials.pc
+/home/richard/ros_catkin_ws/install/share/beginner_tutorials/cmake/beginner_tutorialsConfig.cmake
+/home/richard/ros_catkin_ws/install/share/beginner_tutorials/cmake/beginner_tutorialsConfig-version.cmake
+/home/richard/ros_catkin_ws/install/share/beginner_tutorials/package.xml
+/home/richard/ros_catkin_ws/install/lib/pkgconfig/minesweeper.pc
+/home/richard/ros_catkin_ws/install/share/minesweeper/cmake/minesweeperConfig.cmake
+/home/richard/ros_catkin_ws/install/share/minesweeper/cmake/minesweeperConfig-version.cmake
+/home/richard/ros_catkin_ws/install/share/minesweeper/package.xml
